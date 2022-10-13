@@ -78,7 +78,7 @@
 .image-frame {
     width: 380px;
     height: 380px;
-    background-image: url(../images/DP.png);
+    background-image: url(../images/797d1a91f65779921244ccb2bb5f7669.png);
     background-position: center;
     background-size: cover;
     border: 8px solid #FFFFFF;
@@ -980,7 +980,7 @@
 
 .contact-image {
     background-image: linear-gradient(to bottom right, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3)),
-        url(../images/DP.png);
+        url(../images/797d1a91f65779921244ccb2bb5f7669.png);
     background-position: center;
     background-size: cover;
 }
